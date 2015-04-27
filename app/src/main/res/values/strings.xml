@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="textView">Hello world! Vaitheeswaran </string>
+    <string name="button">Update the TextView</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
